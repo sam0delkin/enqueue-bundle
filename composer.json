@@ -26,7 +26,6 @@
         "php-amqplib/php-amqplib": "^2.7@dev",
         "enqueue/amqp-lib": "^0.8@dev",
         "enqueue/amqp-bunny": "^0.8@dev",
-        "enqueue/job-queue": "^0.8@dev",
         "enqueue/fs": "^0.8@dev",
         "enqueue/redis": "^0.8@dev",
         "enqueue/dbal": "^0.8@dev",
